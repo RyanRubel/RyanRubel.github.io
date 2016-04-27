@@ -1,2 +1,2 @@
 # ryanrubel.github.io
-Hello World
+Hello World, I'm in the process of trying to figure this Github world out.
